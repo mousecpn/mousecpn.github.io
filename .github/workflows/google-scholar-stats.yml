@@ -1,0 +1,17 @@
+name: Update Google Scholar Stats
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # 每天 UTC 时间 8 点（自动运行一次）
+  workflow_dispatch: # 允许你在网页上随时手动点击运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Fetch Google Scholar Stats
+      uses: JinkunCao/google-scholar-stats-for-readme@v1.0.0
+      with:
+        # 这里填入你的 Google Scholar ID
+        GOOGLE_SCHOLAR_ID: pgD4ZGgAAAAJ
