@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "mousecpn/pinhao.song.profile",
+    "data-repo": "mousecpn/mousecpn.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
