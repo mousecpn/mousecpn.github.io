@@ -4,5 +4,6 @@
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: pinhao.song@kuleuven.be # your email address
 scholar_userid: pgD4ZGgAAAAJ # your Google Scholar ID
+github_username: mousecpn
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
