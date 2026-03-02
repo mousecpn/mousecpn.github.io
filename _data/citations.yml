@@ -1,0 +1,107 @@
+metadata:
+  last_updated: '2026-03-02'
+papers:
+  pgD4ZGgAAAAJ:4DMP91E08xMC:
+    citations: 1
+    title: Equivariant Volumetric Grasping
+    year: '2025'
+  pgD4ZGgAAAAJ:7PzlFSSx8tAC:
+    citations: 0
+    title: "RAGLRO: Retrieval\u2010Augmented Generation With Large Language Models for Robotic Operations"
+    year: '2026'
+  pgD4ZGgAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: 'DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring'
+    year: '2025'
+  pgD4ZGgAAAAJ:IjCSPb-OGe4C:
+    citations: 254
+    title: 'AO2-DETR: Arbitrary-oriented object detection transformer'
+    year: '2022'
+  pgD4ZGgAAAAJ:LkGwnXOMwfcC:
+    citations: 1
+    title: "Underwater image clarifying based on human visual colour constancy using double\u2010opponency"
+    year: '2024'
+  pgD4ZGgAAAAJ:M3ejUd6NZC8C:
+    citations: 1
+    title: Robust object detection of underwater robot based on domain generalization
+    year: '2025'
+  pgD4ZGgAAAAJ:MXK_kJrjxJIC:
+    citations: 114
+    title: A gated cross-domain collaborative network for underwater object detection
+    year: '2024'
+  pgD4ZGgAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: 'Robot Trajectron V2: A Probabilistic Shared Control Framework for Navigation'
+    year: '2025'
+  pgD4ZGgAAAAJ:Se3iqnhoufwC:
+    citations: 12
+    title: 'IGG: Improved graph generation for domain adaptive object detection'
+    year: '2023'
+  pgD4ZGgAAAAJ:Tyk-4Ss8FVUC:
+    citations: 277
+    title: "Boosting R-CNN: Reweighting R-CNN samples by RPN\u2019s error for underwater object detection"
+    year: '2023'
+  pgD4ZGgAAAAJ:ULOm3_A8WrAC:
+    citations: 9
+    title: 'Implicit grasp diffusion: Bridging the gap between dense prediction and sampling-based grasping'
+    year: '2024'
+  pgD4ZGgAAAAJ:UeHWp8X0CEIC:
+    citations: 282
+    title: Pose-guided feature disentangling for occluded person re-identification based on transformer
+    year: '2022'
+  pgD4ZGgAAAAJ:WF5omc3nYNoC:
+    citations: 6
+    title: 'Bagging R-CNN: Ensemble for object detection in complex traffic scenes'
+    year: '2023'
+  pgD4ZGgAAAAJ:Wp0gIr-vW9MC:
+    citations: 2
+    title: 'Tasc: Task-aware shared control for teleoperated manipulation'
+    year: '2025'
+  pgD4ZGgAAAAJ:Y0pCki6q_DkC:
+    citations: 48
+    title: Contrastive learning from spatio-temporal mixed skeleton sequences for self-supervised skeleton-based action recognition
+    year: '2022'
+  pgD4ZGgAAAAJ:YsMSGLbcyi4C:
+    citations: 71
+    title: Achieving domain generalization for underwater object detection by domain mixup and contrastive learning
+    year: '2023'
+  pgD4ZGgAAAAJ:Zph67rFs4hoC:
+    citations: 17
+    title: 'Robot Trajectron: Trajectory Prediction-based Shared Control for Robot Manipulation'
+    year: '2024'
+  pgD4ZGgAAAAJ:_kc_bZDykSQC:
+    citations: 7
+    title: 'Eventvl: Understand event streams via multimodal large language model'
+    year: '2025'
+  pgD4ZGgAAAAJ:aqlVkmm33-oC:
+    citations: 1
+    title: 'Mini Diffuser: Fast Multi-Task Diffusion Policy Training Using Two-Level Mini-Batches'
+    year: '2025'
+  pgD4ZGgAAAAJ:dhFuZR0502QC:
+    citations: 0
+    title: 'OTOcc: Optimal Transport for Occupancy Prediction.'
+    year: '2024'
+  pgD4ZGgAAAAJ:eQOLeE2rZwMC:
+    citations: 7
+    title: Neural ordinary differential equation for irregular human motion prediction
+    year: '2024'
+  pgD4ZGgAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Domain Similarity-Perceived Label Assignment for Domain Generalized Underwater Object Detection
+    year: '2023'
+  pgD4ZGgAAAAJ:mVmsd5A6BfQC:
+    citations: 2
+    title: 'See&trek: Training-free spatial prompting for multimodal large language model'
+    year: '2025'
+  pgD4ZGgAAAAJ:u-x6o8ySG0sC:
+    citations: 131
+    title: Towards domain generalization in underwater object detection
+    year: '2020'
+  pgD4ZGgAAAAJ:ufrVoPGSRksC:
+    citations: 65
+    title: "Edge\u2010guided representation learning for underwater object detection"
+    year: '2024'
+  pgD4ZGgAAAAJ:zYLM7Y9cAGgC:
+    citations: 99
+    title: Excavating roi attention for underwater object detection
+    year: '2022'
