@@ -17,10 +17,10 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a Ph.D. student at KU Leuven, supervised by Prof. [Renaud Detry](https://renaud-detry.net/).
 
-I obtained my master's degree from *Peking University* in 2022, supervised by Prof. Hong Liu. At the same time, I am also a visiting student in [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
+I obtained my master's degree from **Peking University** in 2022, supervised by Prof. Hong Liu. At the same time, I am also a visiting student in [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
 
-I obtained my bachelor's degree from *South China University of Technology* in 2019.
+I obtained my bachelor's degree from **South China University of Technology** in 2019.
 
-My primary focus is on *assistive robots* and *robot grasping*. I am developing an assistive teleoperation system using a brain-machine interface. 
+My primary focus is on **assistive robots** and **robot grasping**. I am developing an assistive teleoperation system using a brain-machine interface. 
 
 
