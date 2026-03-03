@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: *A Robotics Ph.D. and a Bayesian*
+subtitle: Robotics Ph.D.
 
 profile:
   align: right
