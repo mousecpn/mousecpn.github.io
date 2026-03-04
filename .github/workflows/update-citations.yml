@@ -3,7 +3,9 @@ name: Update Google Scholar Citations
 on:
   schedule:
     - cron: "0 0 * * 1" # Monday
+    - cron: "0 0 * * 2"
     - cron: "0 0 * * 3" # Wednesday
+    - cron: "0 0 * * 4"
     - cron: "0 0 * * 5" # Friday
   workflow_dispatch:
 
@@ -49,7 +51,7 @@ jobs:
           set +e
           echo "🚀 Running citation update script (single attempt)..."
           start_time=$(date)
-          timeout 360 python bin/update_scholar_citations.py
+          timeout 90 python bin/update_scholar_citations.py
           status=$?
           end_time=$(date)
           if [ $status -eq 0 ]; then
