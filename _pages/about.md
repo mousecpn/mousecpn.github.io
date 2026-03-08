@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Ph.D. student at KU Leuven, supervised by Prof. [Renaud Detry](https://renaud-detry.net/).
+I am currently a Ph.D. student at **KU Leuven**, supervised by Prof. [Renaud Detry](https://renaud-detry.net/).
 
 I obtained my master's degree from **Peking University** in 2022, supervised by Prof. Hong Liu. At the same time, I am also a visiting student in [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
 
