@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-02'
 papers:
   pgD4ZGgAAAAJ:4DMP91E08xMC:
     citations: 1
@@ -9,8 +9,12 @@ papers:
     citations: 0
     title: 'DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring'
     year: '2025'
+  pgD4ZGgAAAAJ:IWHjjKOFINEC:
+    citations: 0
+    title: Stabilization-Responsiveness Trade-offs in Continuous Shared-Control for Invasive Brain-Computer Interfaces
+    year: '2026'
   pgD4ZGgAAAAJ:IjCSPb-OGe4C:
-    citations: 260
+    citations: 264
     title: 'AO2-DETR: Arbitrary-oriented object detection transformer'
     year: '2022'
   pgD4ZGgAAAAJ:LkGwnXOMwfcC:
@@ -22,7 +26,7 @@ papers:
     title: Robust object detection of underwater robot based on domain generalization
     year: '2025'
   pgD4ZGgAAAAJ:MXK_kJrjxJIC:
-    citations: 126
+    citations: 129
     title: A gated cross-domain collaborative network for underwater object detection
     year: '2024'
   pgD4ZGgAAAAJ:QIV2ME_5wuYC:
@@ -34,7 +38,7 @@ papers:
     title: 'IGG: Improved graph generation for domain adaptive object detection'
     year: '2023'
   pgD4ZGgAAAAJ:Tyk-4Ss8FVUC:
-    citations: 291
+    citations: 293
     title: "Boosting R-CNN: Reweighting R-CNN samples by RPN\u2019s error for underwater object detection"
     year: '2023'
   pgD4ZGgAAAAJ:ULOm3_A8WrAC:
@@ -42,7 +46,7 @@ papers:
     title: 'Implicit grasp diffusion: Bridging the gap between dense prediction and sampling-based grasping'
     year: '2024'
   pgD4ZGgAAAAJ:UeHWp8X0CEIC:
-    citations: 290
+    citations: 291
     title: Pose-guided feature disentangling for occluded person re-identification based on transformer
     year: '2022'
   pgD4ZGgAAAAJ:WF5omc3nYNoC:
@@ -58,7 +62,7 @@ papers:
     title: Contrastive learning from spatio-temporal mixed skeleton sequences for self-supervised skeleton-based action recognition
     year: '2022'
   pgD4ZGgAAAAJ:YsMSGLbcyi4C:
-    citations: 74
+    citations: 77
     title: Achieving domain generalization for underwater object detection by domain mixup and contrastive learning
     year: '2023'
   pgD4ZGgAAAAJ:ZeXyd9-uunAC:
@@ -66,11 +70,11 @@ papers:
     title: "Dataset for: Stabilization\u2013Responsiveness Trade-offs in Continuous Shared-Control for Invasive Brain\u2013Computer Interfaces."
     year: Unknown Year
   pgD4ZGgAAAAJ:Zph67rFs4hoC:
-    citations: 19
+    citations: 20
     title: 'Robot Trajectron: Trajectory Prediction-based Shared Control for Robot Manipulation'
     year: '2024'
   pgD4ZGgAAAAJ:_kc_bZDykSQC:
-    citations: 8
+    citations: 9
     title: 'Eventvl: Understand event streams via multimodal large language model'
     year: '2025'
   pgD4ZGgAAAAJ:aqlVkmm33-oC:
@@ -94,11 +98,11 @@ papers:
     title: 'See&trek: Training-free spatial prompting for multimodal large language model'
     year: '2025'
   pgD4ZGgAAAAJ:u-x6o8ySG0sC:
-    citations: 132
+    citations: 133
     title: Towards domain generalization in underwater object detection
     year: '2020'
   pgD4ZGgAAAAJ:ufrVoPGSRksC:
-    citations: 68
+    citations: 71
     title: "Edge\u2010guided representation learning for underwater object detection"
     year: '2024'
   pgD4ZGgAAAAJ:zYLM7Y9cAGgC:
