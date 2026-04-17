@@ -23,4 +23,7 @@ I obtained my bachelor's degree from **South China University of Technology** in
 
 My primary focus is on **assistive robots** and **robot grasping**. I am developing an assistive teleoperation system using a brain-machine interface. 
 
+GoogleScholar citation: ![Google Scholar citations](https://img.shields.io/badge/dynamic/json?label=Scholar%20Citations&color=4285F4&query=%24.total_citations&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmousecpn%2FUnblock-Google-Scholar-Action%40metadata%2Fdata%2Ftotal_citations.json)
+
+
 
