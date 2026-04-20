@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-20'
 papers:
   pgD4ZGgAAAAJ:4DMP91E08xMC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: Stabilization-Responsiveness Trade-offs in Continuous Shared-Control for Invasive Brain-Computer Interfaces
     year: '2026'
   pgD4ZGgAAAAJ:IjCSPb-OGe4C:
-    citations: 265
+    citations: 266
     title: 'AO2-DETR: Arbitrary-oriented object detection transformer'
     year: '2022'
   pgD4ZGgAAAAJ:LkGwnXOMwfcC:
@@ -26,7 +26,7 @@ papers:
     title: Robust object detection of underwater robot based on domain generalization
     year: '2025'
   pgD4ZGgAAAAJ:MXK_kJrjxJIC:
-    citations: 133
+    citations: 132
     title: A gated cross-domain collaborative network for underwater object detection
     year: '2024'
   pgD4ZGgAAAAJ:QIV2ME_5wuYC:
@@ -62,7 +62,7 @@ papers:
     title: Contrastive learning from spatio-temporal mixed skeleton sequences for self-supervised skeleton-based action recognition
     year: '2022'
   pgD4ZGgAAAAJ:YsMSGLbcyi4C:
-    citations: 80
+    citations: 81
     title: Achieving domain generalization for underwater object detection by domain mixup and contrastive learning
     year: '2023'
   pgD4ZGgAAAAJ:ZeXyd9-uunAC:
@@ -86,7 +86,7 @@ papers:
     title: 'OTOcc: Optimal Transport for Occupancy Prediction.'
     year: '2024'
   pgD4ZGgAAAAJ:eQOLeE2rZwMC:
-    citations: 9
+    citations: 8
     title: Neural ordinary differential equation for irregular human motion prediction
     year: '2024'
   pgD4ZGgAAAAJ:hqOjcs7Dif8C:
@@ -102,7 +102,7 @@ papers:
     title: Towards domain generalization in underwater object detection
     year: '2020'
   pgD4ZGgAAAAJ:ufrVoPGSRksC:
-    citations: 74
+    citations: 76
     title: "Edge\u2010guided representation learning for underwater object detection"
     year: '2024'
   pgD4ZGgAAAAJ:zYLM7Y9cAGgC:
