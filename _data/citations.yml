@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-23'
+  last_updated: '2026-04-24'
 papers:
   pgD4ZGgAAAAJ:4DMP91E08xMC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: Stabilization-Responsiveness Trade-offs in Continuous Shared-Control for Invasive Brain-Computer Interfaces
     year: '2026'
   pgD4ZGgAAAAJ:IjCSPb-OGe4C:
-    citations: 271
+    citations: 272
     title: 'AO2-DETR: Arbitrary-oriented object detection transformer'
     year: '2022'
   pgD4ZGgAAAAJ:LkGwnXOMwfcC:
