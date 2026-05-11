@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-11'
 papers:
+  pgD4ZGgAAAAJ:-f6ydRqryjwC:
+    citations: 0
+    title: 'ELVIS: Ensemble-Calibrated Latent Imagination for Long-Horizon Visual MPC'
+    year: '2026'
   pgD4ZGgAAAAJ:4DMP91E08xMC:
     citations: 1
     title: Equivariant Volumetric Grasping
@@ -14,7 +18,7 @@ papers:
     title: Stabilization-Responsiveness Trade-offs in Continuous Shared-Control for Invasive Brain-Computer Interfaces
     year: '2026'
   pgD4ZGgAAAAJ:IjCSPb-OGe4C:
-    citations: 276
+    citations: 278
     title: 'AO2-DETR: Arbitrary-oriented object detection transformer'
     year: '2022'
   pgD4ZGgAAAAJ:LkGwnXOMwfcC:
@@ -38,7 +42,7 @@ papers:
     title: 'IGG: Improved graph generation for domain adaptive object detection'
     year: '2023'
   pgD4ZGgAAAAJ:Tyk-4Ss8FVUC:
-    citations: 304
+    citations: 305
     title: "Boosting R-CNN: Reweighting R-CNN samples by RPN\u2019s error for underwater object detection"
     year: '2023'
   pgD4ZGgAAAAJ:ULOm3_A8WrAC:
@@ -46,11 +50,11 @@ papers:
     title: 'Implicit grasp diffusion: Bridging the gap between dense prediction and sampling-based grasping'
     year: '2024'
   pgD4ZGgAAAAJ:UeHWp8X0CEIC:
-    citations: 298
+    citations: 300
     title: Pose-guided feature disentangling for occluded person re-identification based on transformer
     year: '2022'
   pgD4ZGgAAAAJ:WF5omc3nYNoC:
-    citations: 6
+    citations: 7
     title: 'Bagging R-CNN: Ensemble for object detection in complex traffic scenes'
     year: '2023'
   pgD4ZGgAAAAJ:Wp0gIr-vW9MC:
@@ -100,7 +104,7 @@ papers:
   pgD4ZGgAAAAJ:mVmsd5A6BfQC:
     citations: 5
     title: 'See&trek: Training-free spatial prompting for multimodal large language model'
-    year: '2025'
+    year: '2026'
   pgD4ZGgAAAAJ:u-x6o8ySG0sC:
     citations: 136
     title: Towards domain generalization in underwater object detection
