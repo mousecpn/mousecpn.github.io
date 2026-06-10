@@ -1,4 +1,3 @@
-<img width="1280" height="458" alt="KU_Leuven_logo svg" src="https://github.com/user-attachments/assets/e05b0df8-68f0-47cf-9c40-3ccc3533a689" />
 ---
 layout: about
 title: About
