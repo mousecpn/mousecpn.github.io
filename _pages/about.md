@@ -15,12 +15,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Ph.D. student at **KU Leuven** <img width="64" height="22.9" alt="KU_Leuven_logo svg" src="https://github.com/user-attachments/assets/da0d9001-7f9f-480a-9f96-2a84eb197459" />
-, supervised by Prof. [Renaud Detry](https://renaud-detry.net/).
+I am currently a Ph.D. student at <img width="64" height="22.9" alt="KU_Leuven_logo svg" src="https://github.com/user-attachments/assets/da0d9001-7f9f-480a-9f96-2a84eb197459" style="margin-top: 20px;" /> **KU Leuven**, supervised by Prof. [Renaud Detry](https://renaud-detry.net/).
 
-I obtained my master's degree from **Peking University** <img width="30" height="30" alt="Peking_University_seal svg" src="https://github.com/user-attachments/assets/a0c4192e-6499-4a58-99e1-9b8f194a9f54" /> in 2022, supervised by Prof. Hong Liu. At the same time, I am also a visiting student in [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
+I obtained my master's degree from <img width="30" height="30" alt="Peking_University_seal svg" src="https://github.com/user-attachments/assets/a0c4192e-6499-4a58-99e1-9b8f194a9f54" /> **Peking University** in 2022, supervised by Prof. Hong Liu. At the same time, I am also a visiting student in [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
 
-I obtained my bachelor's degree from **South China University of Technology** <img width="30" height="30" alt="South_China_University_of_Technology_logo" src="https://github.com/user-attachments/assets/d205aed1-e0f5-4fc3-9668-a8034a8957da" /> in 2019.
+I obtained my bachelor's degree from <img width="30" height="30" alt="South_China_University_of_Technology_logo" src="https://github.com/user-attachments/assets/d205aed1-e0f5-4fc3-9668-a8034a8957da" /> **South China University of Technology** in 2019.
 
 My primary focus is on **assistive robots** and **robot grasping**. I am developing an assistive teleoperation system using a brain-machine interface. 
 
