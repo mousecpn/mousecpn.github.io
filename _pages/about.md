@@ -1,3 +1,4 @@
+<img width="1280" height="458" alt="KU_Leuven_logo svg" src="https://github.com/user-attachments/assets/e05b0df8-68f0-47cf-9c40-3ccc3533a689" />
 ---
 layout: about
 title: About
@@ -15,7 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Ph.D. student at **KU Leuven**, supervised by Prof. [Renaud Detry](https://renaud-detry.net/).
+I am currently a Ph.D. student at **KU Leuven** <img width="128" height="45.8" alt="KU_Leuven_logo svg" src="https://github.com/user-attachments/assets/da0d9001-7f9f-480a-9f96-2a84eb197459" />
+, supervised by Prof. [Renaud Detry](https://renaud-detry.net/).
 
 I obtained my master's degree from **Peking University** in 2022, supervised by Prof. Hong Liu. At the same time, I am also a visiting student in [Pengcheng Laboratory (PCL)](https://www.pcl.ac.cn/).
 
