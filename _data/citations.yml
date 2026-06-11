@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-11'
 papers:
   pgD4ZGgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: 'Robot Trajectron V2: A Probabilistic Shared Control Framework for Navigation'
     year: '2025'
   pgD4ZGgAAAAJ:Se3iqnhoufwC:
-    citations: 13
+    citations: 14
     title: 'IGG: Improved graph generation for domain adaptive object detection'
     year: '2023'
   pgD4ZGgAAAAJ:Tyk-4Ss8FVUC:
