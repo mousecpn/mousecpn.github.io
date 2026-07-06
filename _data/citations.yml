@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-07-06'
 papers:
   pgD4ZGgAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: "Stabilization\u2013Responsiveness Trade-offs in Continuous Shared-Control for Invasive Brain\u2013Computer Interfaces"
     year: '2026'
   pgD4ZGgAAAAJ:IjCSPb-OGe4C:
-    citations: 297
+    citations: 298
     title: 'AO2-DETR: Arbitrary-oriented object detection transformer'
     year: '2022'
   pgD4ZGgAAAAJ:LkGwnXOMwfcC:
@@ -30,7 +30,7 @@ papers:
     title: Robust object detection of underwater robot based on domain generalization
     year: '2025'
   pgD4ZGgAAAAJ:MXK_kJrjxJIC:
-    citations: 154
+    citations: 155
     title: A gated cross-domain collaborative network for underwater object detection
     year: '2024'
   pgD4ZGgAAAAJ:QIV2ME_5wuYC:
@@ -54,7 +54,7 @@ papers:
     title: 'Implicit grasp diffusion: Bridging the gap between dense prediction and sampling-based grasping'
     year: '2024'
   pgD4ZGgAAAAJ:UeHWp8X0CEIC:
-    citations: 319
+    citations: 321
     title: Pose-guided feature disentangling for occluded person re-identification based on transformer
     year: '2022'
   pgD4ZGgAAAAJ:WF5omc3nYNoC:
@@ -70,7 +70,7 @@ papers:
     title: Contrastive learning from spatio-temporal mixed skeleton sequences for self-supervised skeleton-based action recognition
     year: '2022'
   pgD4ZGgAAAAJ:YsMSGLbcyi4C:
-    citations: 88
+    citations: 90
     title: Achieving domain generalization for underwater object detection by domain mixup and contrastive learning
     year: '2023'
   pgD4ZGgAAAAJ:ZeXyd9-uunAC:
@@ -118,7 +118,7 @@ papers:
     title: Towards domain generalization in underwater object detection
     year: '2020'
   pgD4ZGgAAAAJ:ufrVoPGSRksC:
-    citations: 87
+    citations: 88
     title: "Edge\u2010guided representation learning for underwater object detection"
     year: '2024'
   pgD4ZGgAAAAJ:zYLM7Y9cAGgC:
