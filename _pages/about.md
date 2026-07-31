@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I am currently a Ph.D. student at <img width="64" height="22.9" alt="KU_Leuven_logo svg" src="https://github.com/user-attachments/assets/da0d9001-7f9f-480a-9f96-2a84eb197459"/> **KU Leuven**, supervised by Prof. [Renaud Detry](https://renaud-detry.net/).
@@ -21,9 +21,6 @@ I obtained my master's degree from <img width="30" height="30" alt="Peking_Unive
 
 I obtained my bachelor's degree from <img width="30" height="30" alt="South_China_University_of_Technology_logo" src="https://github.com/user-attachments/assets/d205aed1-e0f5-4fc3-9668-a8034a8957da" /> **South China University of Technology** in 2019.
 
-My primary focus is on **assistive robots** and **robot grasping**. I am developing an assistive teleoperation system using a brain-machine interface. 
+My primary focus is on **assistive robots** and **robot grasping**. I am developing an assistive teleoperation system using a brain-machine interface.
 
 For more details, please check my [published papers](https://scholar.google.com/citations?user=pgD4ZGgAAAAJ&hl=en). ![Google Scholar citations](https://img.shields.io/badge/dynamic/json?label=Citations&color=4285F4&query=%24.total_citations&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmousecpn%2FUnblock-Google-Scholar-Action%40metadata%2Fdata%2Ftotal_citations.json)
-
-
-
