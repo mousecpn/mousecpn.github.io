@@ -113,6 +113,23 @@
             border-color: var(--global-theme-color);
           }
         }
+
+        a.btn.publication-link-button {
+          display: inline-flex;
+          gap: 0.35rem;
+          align-items: center;
+          line-height: 1.2;
+          text-transform: uppercase;
+          vertical-align: middle;
+
+          .publication-link-icon {
+            width: 1.125rem;
+            height: 1.125rem;
+            object-fit: contain;
+            flex: 0 0 auto;
+          }
+        }
+
         a.award.btn {
           border-color: var(--global-highlight-color);
         }

@@ -201,13 +201,33 @@
         <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button">DOI</a>
       {% endif %}
       {% if entry.arxiv %}
-        <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+        <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="publication-link-button btn btn-sm z-depth-0" role="button">
+          <img
+            class="publication-link-icon"
+            src="{{ '/assets/img/publication_buttons/arxiv.png' | relative_url }}"
+            width="18"
+            height="18"
+            alt=""
+            aria-hidden="true"
+          >
+          <span>arXiv</span>
+        </a>
       {% endif %}
       {% if entry.hal %}
         <a href="https://hal.science/{{ entry.hal }}" class="btn btn-sm z-depth-0" role="button">HAL</a>
       {% endif %}
       {% if entry.bibtex_show %}
-        <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+        <a class="bibtex publication-link-button btn btn-sm z-depth-0" role="button">
+          <img
+            class="publication-link-icon"
+            src="{{ '/assets/img/publication_buttons/bibtex.gif' | relative_url }}"
+            width="18"
+            height="18"
+            alt=""
+            aria-hidden="true"
+          >
+          <span>Bib</span>
+        </a>
       {% endif %}
       {% if entry.html %}
         {% if entry.html contains '://' %}
@@ -218,9 +238,33 @@
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          <a href="{{ entry.pdf }}" class="publication-link-button btn btn-sm z-depth-0" role="button">
+            <img
+              class="publication-link-icon"
+              src="{{ '/assets/img/publication_buttons/pdf4.png' | relative_url }}"
+              width="18"
+              height="18"
+              alt=""
+              aria-hidden="true"
+            >
+            <span>PDF</span>
+          </a>
         {% else %}
-          <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          <a
+            href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}"
+            class="publication-link-button btn btn-sm z-depth-0"
+            role="button"
+          >
+            <img
+              class="publication-link-icon"
+              src="{{ '/assets/img/publication_buttons/pdf4.png' | relative_url }}"
+              width="18"
+              height="18"
+              alt=""
+              aria-hidden="true"
+            >
+            <span>PDF</span>
+          </a>
         {% endif %}
       {% endif %}
       {% if entry.supp %}
@@ -236,7 +280,17 @@
         <a href="{{ entry.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
       {% endif %}
       {% if entry.blog %}
-        <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
+        <a href="{{ entry.blog }}" class="publication-link-button btn btn-sm z-depth-0" role="button">
+          <img
+            class="publication-link-icon"
+            src="{{ '/assets/img/publication_buttons/blog.png' | relative_url }}"
+            width="18"
+            height="18"
+            alt=""
+            aria-hidden="true"
+          >
+          <span>Blog</span>
+        </a>
       {% endif %}
       {% if entry.code %}
         <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
