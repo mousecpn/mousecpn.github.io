@@ -293,7 +293,17 @@
         </a>
       {% endif %}
       {% if entry.code %}
-        <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+        <a href="{{ entry.code }}" class="publication-link-button btn btn-sm z-depth-0" role="button">
+          <img
+            class="publication-link-icon"
+            src="{{ '/assets/img/publication_buttons/code.png' | relative_url }}"
+            width="18"
+            height="18"
+            alt=""
+            aria-hidden="true"
+          >
+          <span>Code</span>
+        </a>
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}
