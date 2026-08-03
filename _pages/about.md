@@ -18,11 +18,9 @@ contact_card:
     - label: "+32 489351623"
       href: "+32489351623"
   links:
-    - label: 知乎
-      text: zhihu.com/people/song-pin-hao-46
+    - text: Zhihu
       url: https://www.zhihu.com/people/song-pin-hao-46
-    - label: GitHub
-      text: github.com/mousecpn
+    - text: GitHub
       url: https://github.com/mousecpn
 
 news: true # includes a list of news items

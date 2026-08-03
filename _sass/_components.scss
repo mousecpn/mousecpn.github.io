@@ -94,8 +94,10 @@ ul.task-list input[type="checkbox"] {
 
 .contact-card {
   clear: both;
-  margin: 2rem 0 2.5rem;
-  padding: clamp(1.25rem, 3vw, 2rem);
+  width: 100%;
+  max-width: 760px;
+  margin: 1.5rem auto 2rem;
+  padding: 1rem 1.25rem;
   background-color: var(--global-card-bg-color);
   border: 1px solid var(--global-divider-color);
   border-radius: 0.65rem;
@@ -113,13 +115,13 @@ ul.task-list input[type="checkbox"] {
   align-items: baseline;
 
   & + & {
-    margin-top: 1.15rem;
+    margin-top: 0.65rem;
   }
 
   dt,
   dd {
-    font-size: 1.1rem;
-    line-height: 1.5;
+    font-size: 1rem;
+    line-height: 1.4;
   }
 
   dt {
@@ -160,7 +162,7 @@ ul.task-list input[type="checkbox"] {
     gap: 0.15rem;
 
     & + & {
-      margin-top: 1rem;
+      margin-top: 0.65rem;
     }
 
     dd {
