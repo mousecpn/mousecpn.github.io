@@ -18,6 +18,8 @@ contact_card:
     - label: "+32 489351623"
       href: "+32489351623"
   links:
+    - text: Google Scholar
+      url: "https://scholar.google.com/citations?user=pgD4ZGgAAAAJ&hl=en"
     - text: Zhihu
       url: https://www.zhihu.com/people/song-pin-hao-46
     - text: GitHub
