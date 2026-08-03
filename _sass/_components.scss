@@ -90,6 +90,89 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Contact card
+
+.contact-card {
+  clear: both;
+  margin: 2rem 0 2.5rem;
+  padding: clamp(1.25rem, 3vw, 2rem);
+  background-color: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.65rem;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.12);
+}
+
+.contact-card__list {
+  margin: 0;
+}
+
+.contact-card__row {
+  display: grid;
+  grid-template-columns: minmax(5.5rem, 0.35fr) minmax(0, 1fr);
+  gap: 1rem;
+  align-items: baseline;
+
+  & + & {
+    margin-top: 1.15rem;
+  }
+
+  dt,
+  dd {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+
+  dt {
+    color: var(--global-text-color);
+    font-weight: 700;
+  }
+
+  dd {
+    min-width: 0;
+    margin: 0;
+    overflow-wrap: anywhere;
+    text-align: right;
+  }
+
+  a {
+    color: var(--global-theme-color);
+
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
+}
+
+.contact-card__phones {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.25rem 0.5rem;
+
+  a {
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .contact-card__row {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+
+    & + & {
+      margin-top: 1rem;
+    }
+
+    dd {
+      text-align: left;
+    }
+  }
+
+  .contact-card__phones {
+    justify-content: flex-start;
+  }
+}
+
 // CV
 
 .cv {

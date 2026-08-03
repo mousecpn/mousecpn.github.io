@@ -9,6 +9,22 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 
+contact_card:
+  enabled: true
+  email: pinhao.song@kuleuvenl.be
+  phones:
+    - label: "+86 13823367227"
+      href: "+8613823367227"
+    - label: "+32 489351623"
+      href: "+32489351623"
+  links:
+    - label: 知乎
+      text: zhihu.com/people/song-pin-hao-46
+      url: https://www.zhihu.com/people/song-pin-hao-46
+    - label: GitHub
+      text: github.com/mousecpn
+      url: https://github.com/mousecpn
+
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"

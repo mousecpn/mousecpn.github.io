@@ -1,0 +1,31 @@
+<section class="contact-card" aria-label="Contact information">
+  <dl class="contact-card__list">
+    <div class="contact-card__row">
+      <dt>Email:</dt>
+      <dd>
+        <a href="mailto:{{ page.contact_card.email }}">{{ page.contact_card.email }}</a>
+      </dd>
+    </div>
+
+    <div class="contact-card__row">
+      <dt>Phone:</dt>
+      <dd class="contact-card__phones">
+        {% for phone in page.contact_card.phones %}
+          <a href="tel:{{ phone.href }}">{{ phone.label }}</a>
+          {% unless forloop.last -%}
+            <span class="contact-card__separator" aria-hidden="true">/</span>
+          {%- endunless %}
+        {% endfor %}
+      </dd>
+    </div>
+
+    {% for link in page.contact_card.links %}
+      <div class="contact-card__row">
+        <dt>{{ link.label }}:</dt>
+        <dd>
+          <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.text }}</a>
+        </dd>
+      </div>
+    {% endfor %}
+  </dl>
+</section>
