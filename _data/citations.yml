@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-12'
 papers:
   pgD4ZGgAAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: "Shared AI\u2013brain control for reliable intracortical BCI navigation in dynamic environments"
     year: '2026'
   pgD4ZGgAAAAJ:IjCSPb-OGe4C:
-    citations: 315
+    citations: 318
     title: 'AO2-DETR: Arbitrary-oriented object detection transformer'
     year: '2022'
   pgD4ZGgAAAAJ:LkGwnXOMwfcC:
@@ -26,7 +26,7 @@ papers:
     title: Robust object detection of underwater robot based on domain generalization
     year: '2025'
   pgD4ZGgAAAAJ:MXK_kJrjxJIC:
-    citations: 163
+    citations: 167
     title: A gated cross-domain collaborative network for underwater object detection
     year: '2024'
   pgD4ZGgAAAAJ:QIV2ME_5wuYC:
@@ -42,7 +42,7 @@ papers:
     title: 'IGG: Improved graph generation for domain adaptive object detection'
     year: '2023'
   pgD4ZGgAAAAJ:Tyk-4Ss8FVUC:
-    citations: 337
+    citations: 338
     title: "Boosting R-CNN: Reweighting R-CNN samples by RPN\u2019s error for underwater object detection"
     year: '2023'
   pgD4ZGgAAAAJ:ULOm3_A8WrAC:
@@ -50,7 +50,7 @@ papers:
     title: 'Implicit grasp diffusion: Bridging the gap between dense prediction and sampling-based grasping'
     year: '2024'
   pgD4ZGgAAAAJ:UeHWp8X0CEIC:
-    citations: 331
+    citations: 332
     title: Pose-guided feature disentangling for occluded person re-identification based on transformer
     year: '2022'
   pgD4ZGgAAAAJ:WF5omc3nYNoC:
@@ -118,7 +118,7 @@ papers:
     title: 'Mini Diffuser: Accelerating Diffusion Policy Optimization via Two-Level Minibatching'
     year: Unknown Year
   pgD4ZGgAAAAJ:mVmsd5A6BfQC:
-    citations: 15
+    citations: 16
     title: 'See&trek: Training-free spatial prompting for multimodal large language model'
     year: '2026'
   pgD4ZGgAAAAJ:r0BpntZqJG4C:
@@ -126,11 +126,11 @@ papers:
     title: 'DeblurSplat: Traditional SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring'
     year: '2026'
   pgD4ZGgAAAAJ:u-x6o8ySG0sC:
-    citations: 143
+    citations: 144
     title: Towards domain generalization in underwater object detection
     year: '2020'
   pgD4ZGgAAAAJ:ufrVoPGSRksC:
-    citations: 94
+    citations: 97
     title: "Edge\u2010guided representation learning for underwater object detection"
     year: '2024'
   pgD4ZGgAAAAJ:zYLM7Y9cAGgC:
